@@ -3,5 +3,4 @@ Nesse projeto você terá o desafio de reconstruir a página de login do **Insta
 
 # Desenvolvimento 
 * HTML
-* CSS (foco flexbox)
-
+* CSS
